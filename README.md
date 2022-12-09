@@ -16,4 +16,4 @@ As a finishing stroke to our idea about the most common use, the start and end l
 
 All these results are shown here.
 
-[link to dashboard]("https://public.tableau.com/app/profile/ross.halley/viz/CitibikeStory_16705512436950/CitibikeVisualizations?publish=yes")
+https://public.tableau.com/app/profile/ross.halley/viz/CitibikeStory_16705512436950/CitibikeVisualizations?publish=yes
